@@ -3,11 +3,13 @@ Word Counter
 
 program for counting lines, words and letters in a file written in python
 
-##Installing
+Installing
+---
 installation instructions
 
-##Running Word Counter
-python3 main.py <file> <flag>
+Running Word Counter
+---
+python3 main.py <file> <flag>  
 flags:
 * -h    help
 * -c counting characters
