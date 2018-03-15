@@ -1,4 +1,6 @@
-#Word Counter
+Word Counter
+===
+
 program for counting lines, words and letters in a file written in python
 
 ##Installing
