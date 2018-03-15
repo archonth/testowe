@@ -12,10 +12,9 @@ Tu run Word Counter type:
 python3 <file> <flags>
 ```
 
-Running Word Counter
----
-python3 main.py <file> <flag>  
-flags:
+Options
+---  
+you are able to specify flags when starting the program:
 * -h    help
 * -c counting characters
 * -w counting words
