@@ -3,9 +3,14 @@ Word Counter
 
 program for counting lines, words and letters in a file written in python
 
-Installing
+Running the program
 ---
-installation instructions
+You need newest version of Python interpreter.
+Tu run Word Counter type:
+
+'''
+python3 <file> <flags>
+'''
 
 Running Word Counter
 ---
